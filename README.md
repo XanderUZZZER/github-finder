@@ -13,12 +13,12 @@ Visit [https://xander-github-finder.netlify.app/](https://xander-github-finder.n
 
 ## Technology stack
 
-- ### React
-- ### React Hooks
-- ### React Context API
-- ### GitHub API
-- ### Netlify hosting
-<br>
+- React
+- React Hooks
+- React Context API
+- GitHub API
+- Netlify hosting
+  <br>
 
 # Usage
 
