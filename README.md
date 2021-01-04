@@ -44,8 +44,8 @@ npm i
 
 Unauthenticated clients can make 60 requests per hour. To get more requests per hour, you'll need to authenticate. You can read about this [here](https://docs.github.com/en/free-pro-team@latest/rest/guides/getting-started-with-the-rest-api#authentication). To authenticate in the app you need in project root folder create _**.env.local**_ file with your credentials, like this:
 
-> REACT*APP_GITHUB_CLIENT_ID='\_your client id*'  
-> REACT*APP_GITHUB_CLIENT_SECRET='\_your client secret*'
+> REACT_APP_GITHUB_CLIENT_ID='your client id'  
+> REACT_APP_GITHUB_CLIENT_SECRET='your client secret'
 
 ---
 
